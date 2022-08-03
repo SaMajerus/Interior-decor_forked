@@ -1,4 +1,26 @@
-.column {
+.before {
   width: 300px; 
   float: left; 
+  background-color: red;
+  padding: 10px; 
+  border: 50px solid black;
+  margin: 20px;
+}
+
+.during {
+  width: 300px; 
+  float: left; 
+  background-color: yellow;
+  padding: 10px; 
+  border: 50px solid black;
+  margin: 20px;
+}
+
+.after {
+  width: 300px; 
+  float: left; 
+  background-color: green;
+  padding: 10px; 
+  border: 50px solid black;
+  margin: 20px;
 }
